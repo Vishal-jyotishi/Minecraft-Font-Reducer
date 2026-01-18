@@ -1,0 +1,5 @@
+ACTION REQUIRED:
+1. Get a TrueType font file (.ttf).
+2. Rename it to 'custom_font.ttf'.
+3. Place it in this folder (assets/minecraft/font/).
+4. If you want to adjust the size, open 'default.json' and change 'size': 8.0.
